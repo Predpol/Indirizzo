@@ -1,9 +1,9 @@
 Gem::Specification.new do |s|
-  s.name = %q{Indirizzo}
-  s.version = "0.1.7"
+  s.name = %q{indirizzo}
+  s.version = "0.1.8"
 
-  s.authors = [%q{Dave Worth}]
-  s.date = %q{2012-01-29}
+  s.authors = ['Dave Worth','Omar Qazi']
+  s.date = %q{2013-10-07}
   s.description = %q{Indirizzo is simply an extraction of the US Street Address parsing code from Geocoder::US}
   s.email = %q{dave@highgroove.com}
 
